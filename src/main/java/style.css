@@ -8,6 +8,10 @@ img {
     height : 400px;
 }
 .images {
-align-item :center;
-justify-content : center
+    align-item :center;
+    justify-content : center
+}
+p {
+    color : blue;
+    font-size: 20px
 }
