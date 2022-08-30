@@ -1,4 +1,4 @@
-public class Add {
+public class Operations {
 
     public int add(int a, int b) {
         return a + b;
@@ -19,6 +19,4 @@ public class Add {
     public double sqrt(double number) {
         return Math.sqrt(number);
     }
-
-
 }
